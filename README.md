@@ -1,9 +1,6 @@
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application with dart.
+## A new Flutter project.
 
 A few resources to get you started if this is your first Flutter project:
 
